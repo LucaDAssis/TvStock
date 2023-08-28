@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf4c2968-41d7-4864-9919-ad6ef438f92f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TvStock.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aplication/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Entities/Product.java" afterDir="false" />
-    </list>
+    <list default="true" id="bf4c2968-41d7-4864-9919-ad6ef438f92f" name="Changes" comment="here is a tv stock exercise" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,7 +47,36 @@
       <option name="presentableId" value="Default" />
       <updated>1693188852010</updated>
     </task>
+    <task id="LOCAL-00001" summary="here is a tv stock exercise">
+      <option name="closed" value="true" />
+      <created>1693193773578</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1693193773578</updated>
+    </task>
+    <task id="LOCAL-00002" summary="here is a tv stock exercise">
+      <option name="closed" value="true" />
+      <created>1693193809289</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1693193809289</updated>
+    </task>
+    <task id="LOCAL-00003" summary="here is a tv stock exercise">
+      <option name="closed" value="true" />
+      <created>1693193845892</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1693193845892</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="here is a tv stock exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="here is a tv stock exercise" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
