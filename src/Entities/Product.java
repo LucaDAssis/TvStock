@@ -7,6 +7,14 @@ public class Product {
     //quantity atributo da classe
     public int quantity;
 
+    //construtor depois dos atributos
+    public Product(String name, double price, int quantity){
+        //palavra this é uma referencia para o objeto
+        this.name = name;
+        this.price = price;
+        this.quantity = quantity;
+    }
+
     public double totalValueInStock(){
         return price * quantity;
     }

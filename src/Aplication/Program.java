@@ -11,18 +11,18 @@ public class Program {
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
 
-        Product product = new Product();
         System.out.println("Enter Product Data: ");
         System.out.print("Name: ");
         //aqui estou pegando o nome e guardando no product no campo name.
-        product.name = sc.nextLine();
+        String name = sc.nextLine();
         System.out.print("Price: ");
         //pra fixar eim, pegando o price e guarando no product no campo price usando nextDouble
-        product.price = sc.nextDouble();
+        double price = sc.nextDouble();
         System.out.print("Quantity in Stock: ");
         //pra fixar. pegando o quantity e guaradndo no product no campo quantity usando nextInt
-        product.quantity = sc.nextInt();
+        int quantity = sc.nextInt();
 
+        Product product = new Product(name, price, quantity);
         //só pra pular linha mesmo
         System.out.println();
         //usando o toString parar retorna oque eu alterei, mas posso usar só o productg desde que adicione
@@ -32,7 +32,7 @@ public class Program {
         System.out.println();
         //aqui estamos adicionado o produto
         System.out.print("Enter the number of Products to be add in Stock: ");
-        int quantity = sc.nextInt();
+        quantity = sc.nextInt();
         product.addProducts(quantity);
 
         System.out.println();
